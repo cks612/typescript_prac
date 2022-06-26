@@ -1,0 +1,33 @@
+{
+  "member": [
+    {
+      "name": "유저 더하기",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "최규성",
+      "description": "귀요미"
+    },
+    {
+      "id": 3,
+      "name": "최민석",
+      "description": "서열1"
+    },
+    {
+      "id": 4,
+      "name": "이형준",
+      "description": "시크현석"
+    },
+    {
+      "id": 5,
+      "name": "이현석",
+      "description": "아잉"
+    },
+    {
+      "name": "최규성",
+      "description": "94년생입니다",
+      "id": 6
+    }
+  ]
+}
